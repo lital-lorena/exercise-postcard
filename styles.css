@@ -41,9 +41,9 @@ input {
 }
 button {
 	background-color: pink;
-	padding: 3px;
+	padding: 10px;
 }
 p {
-	color: purple;
+	color: black;
 	font-size: large;
 }
